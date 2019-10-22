@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file 4
+=======
+test file for clone
+>>>>>>> f282f31a5225068ffd428dfa86862693df6c8091
